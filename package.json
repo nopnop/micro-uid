@@ -1,0 +1,31 @@
+{
+  "name": "micro-uid",
+  "version": "0.0.0",
+  "description": "Generate base 62 uid",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nopnop/micro-uid.git"
+  },
+  "keywords": [
+    "uid",
+    "short",
+    "base62"
+  ],
+  "author": "Jean Ponchon <jean.ponchon@novadiscovery.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nopnop/micro-uid/issues"
+  },
+  "homepage": "https://github.com/nopnop/micro-uid",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.21.5"
+  }
+}

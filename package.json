@@ -1,6 +1,6 @@
 {
   "name": "micro-uid",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate base 62 uid",
   "main": "index.js",
   "scripts": {
